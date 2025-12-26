@@ -52,8 +52,8 @@ How to Run the Project
    Screenshots
    ![Home Page](./screenshots/scrn-1.jpeg)
    ![Home Page](./screenshots/scrn-2.jpeg)
-   ![Home Page](./screenshots/scrn-3.png)
-   ![Home Page](./screenshots/scrn-4.png)
-   ![Home Page](./screenshots/scrn-5.png)
-   ![Home Page](./screenshots/scrn-6.png)
+   ![Home Page](./screenshots/scrn-3.jpeg)
+   ![Home Page](./screenshots/scrn-4.jpeg)
+   ![Home Page](./screenshots/scrn-5.jpeg)
+   ![Home Page](./screenshots/scrn-6.jpeg)
 
