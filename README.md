@@ -48,3 +48,12 @@ How to Run the Project
 3) Open the project folder
 4) Double-click index.html
 5) The website will open in your browser
+
+   Screenshots
+   ![Home Page](./screenshots/scrn-1.png)
+   ![Home Page](./screenshots/scrn-2.png)
+   ![Home Page](./screenshots/scrn-3.png)
+   ![Home Page](./screenshots/scrn-4.png)
+   ![Home Page](./screenshots/scrn-5.png)
+   ![Home Page](./screenshots/scrn-6.png)
+
