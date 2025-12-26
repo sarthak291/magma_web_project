@@ -50,8 +50,8 @@ How to Run the Project
 5) The website will open in your browser
 
    Screenshots
-   ![Home Page](./screenshots/scrn-1.png)
-   ![Home Page](./screenshots/scrn-2.png)
+   ![Home Page](./screenshots/scrn-1.jpeg)
+   ![Home Page](./screenshots/scrn-2.jpeg)
    ![Home Page](./screenshots/scrn-3.png)
    ![Home Page](./screenshots/scrn-4.png)
    ![Home Page](./screenshots/scrn-5.png)
